@@ -1,4 +1,6 @@
-﻿int Max(int arg1, int arg2, int arg3)
+﻿//Поиск максимального значения среди элементов массива.
+
+int Max(int arg1, int arg2, int arg3) 
 {
     int result = arg1;
     if(arg2>result) result = arg2;
@@ -14,6 +16,9 @@ int result = Max(
     Max(array[6], array[7], array[8])
 );
 Console.WriteLine(result);
+
+
+
 
 
 //int max1 = Max(a1,b1,c1);
