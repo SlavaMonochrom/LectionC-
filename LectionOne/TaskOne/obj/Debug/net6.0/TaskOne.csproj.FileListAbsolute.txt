@@ -1,0 +1,15 @@
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\bin\Debug\net6.0\TaskOne.exe
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\bin\Debug\net6.0\TaskOne.dll
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\TaskOne.dll
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll

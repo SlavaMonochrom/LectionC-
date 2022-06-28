@@ -1,0 +1,5 @@
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+C:\Users\imash\OneDrive\Documents\GeekBrains\Lection C#\LectionOne\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
