@@ -23,7 +23,7 @@ int IndexOFf(int[] collection, int find)
 {
     int count = collection.Length;
     int index = 0;
-    int position = 0;
+    int position = -1;
 
     while (index < count)
     {
